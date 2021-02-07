@@ -1,16 +1,31 @@
-### Hi there 👋
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-<!--
-**ammarfaizi2/ammarfaizi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mQINBF5SUB0BEAC4X41/W4Xvw9fQqbOrUZ3NyoLJ2UXClgLGO4FJZpYCLFzDz1og
+a4//AaMDnys/B+VHovAyRl3mcgpJbUx/Lt2PW1pOim4BHhfTO9K9tI2DG4uIhARV
+vWhlpsLvRO5yg1UI6JR4obca+P7KJvrHKoUD8hkZKN5y8PBXcHmjbzMHhl9sJA6Z
+haTqmudUF9PFNwZWE819zYrBGwt5Lg+KVxUjPu2PfOgojkZQpdjfk/mAzLgMtSiX
+MhyznHKCpw0W2nG4PNHwL68XwAzHqFNf46R6a7XSPsMkDo0/uHI9rRjeFqlf1+/p
+kuDlrMqSRHSpa9cpYyBweY0KBCMqVlna+Fzpdzsusf70n5iHMZeHmQU177C8Lpei
+Qg9dEbacj+YXIihSKAR6vPYyEhS22AZzwuxJInSkaJfhK/e/dKYlpaxV1DdnSIDZ
+HeI7rmFpHeBjKJSbAVuNYn3qPTOTONZBSLe9cVya89hmmyAki3r47+zFCczHk1Zn
+b9SR+TqwpaPrJUlGNW9z18e+UWv9PkpAC9yUJR7/wB02HU/GsqfgdgeCrshbMdOJ
+kRFKaacmkaydWhTLPDpoy3B44z85+hJMofmKilBmarFWdT9o2LAt/6ZhRpjiJMxI
+OPwsiFE8FGuPOk122zHUZDBpSgB6EVEgOLlMOPZth1gV0AOhQa7NKFvjZwARAQAB
+tCNBbW1hciBGYWl6aSA8YW1tYXJmYWl6aTJAZ21haWwuY29tPokCVAQTAQoAPhYh
+BC/QwJ64Dbk6dIT1RaAe3AmqirqVBQJeUlAdAhsDBQkDwmcABQsJCAcCBhUKCQgL
+AgQWAgMBAh4BAheAAAoJEKAe3AmqirqVvx4QAKxGsW6A6WyatOaAoVoKy6ZDJH+0
+fICMwO+jhqUlizqqUSCkuUyeRmeo6zEyyakOpjfHamGLs+slGD4IFGJoTeVzlD2u
+0KO0BED7eNpyLu9yq7ObgVst0oemnUVqyDqp/AAHWsuHhAXCdpwEKxxea/KNunmi
+t6ehNGDh4U458kvo8zdUMxvvealh7c6hvxTsV/bLyC43645BYOBsPo2pcJB3oIdj
+SCmKngXDRnE+whoZgDq6EmEmvOMNtutoEf1PL6Re8Wfdb+Z5/pRaQRkKxPXb0wYT
+KZmt+Eo6bjJRpPIG77hMA9WoUcr0NJVCwmQYGMOHXz8f/AATxUqBtsv037NmaPMl
+nkMbKTf3uK6cS66T84qYnluadaJAaIcWLAtV62Dk5ato/ER064vza5eOVu7rRiYi
+pIDpgINhDcPokKWlGv9tu3NspeV7DSbDvxIDilPTvLARCg38hhQTiyKS1VLNsDgZ
+yuXEKSMR3Vncb5wvbuy/SYAXkfeKcY0Gm5+6HES2V2cIp5MgTQ0UOY90NAJTYm+t
+ZJS2s95YRgP/lyeOnWPhbMFKbhlSC5rgiYTpgPipn+6cgZPTx79Htu7BIz2O6N50
+Rx6+IjZRU17Wt29Fto4/ShK+UcQGeXvZTnwuHJR2C7QXg04euEKqhvIr/pnw/Wea
+6aNKOm8XgZqLEHQv
+=h1H/
+-----END PGP PUBLIC KEY BLOCK-----
+```
