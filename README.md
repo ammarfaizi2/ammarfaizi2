@@ -1,16 +1,91 @@
-### Hi there 👋
 
-<!--
-**ammarfaizi2/ammarfaizi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Public Keys
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Encrypt and Sign
+```
+rsa2048 2021-06-12 [expires: 2023-06-12]
+9CF147792F670851CC899B94CC8CDAF7A2DC6FE8
+Ammar Faizi <ammarfaizi2@gmail.com>
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBGDEVYUBCADa067Lr+8mEw5NYle5B+tAR/BdpK0bWvlbNih7oer528wW0FKK
+5GYa+r2v/wfbV8I+r4AEWUq56G6R7BfSoJAfWehsUM2OrevwYvx++E2biN3FVa3Y
+SySI0ki4l2Ujqb0sSLbpe2t5VoiJ5lNIW5ua8Hk1XtXjsvNEmidE1RUXM7ibUswa
+6VnjDPpl1GOyCSfkz3bI+aNH34yhSYet1jJRAFsIjCEr64n/FbseqLCJyA6aev2M
+xTq/srJ5Mt00kzTH/juyeBZpt1knfBkCuRcPku/pGLuuEiUmR70a4ROlOAJoaJBt
+waMlfl34G0kThZsVbmCArMFidBHQ8KQKwxZxABEBAAG0I0FtbWFyIEZhaXppIDxh
+bW1hcmZhaXppMkBnbWFpbC5jb20+iQFUBBMBCgA+FiEEnPFHeS9nCFHMiZuUzIza
+96Lcb+gFAmDEVYUCGwMFCQPCZwAFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQ
+zIza96Lcb+ixewf+Nn0vPUx3TeVTyCIYs06PruOaFoR4v5t5PtNe5K3zhNylnyy4
+iy3HhqgO2+byxGgCfjMRspouMN/fiSH4D8ZgFOMu+wcgegNeREuOiwRguRyZMl66
+mjbBqtok/WdgwEWZj3fioWYZ66zsTZ44s+CX0DwiN9usYAAfuEnnUHANVhD8GhfU
+8RbOtyuFQHNNVsxhYUBP0w1K3Ktf7Ed2d2TVJkSaHImVF3DQr9FgNp0AyJAGF8As
+ybhGyhrEi7k33lrKLx9FalbpIIXC/EKOsBUygaMBjCKodmfTM8oTzW5qLHjYl9ra
+zf6RU8osbJUabRrdlzH+7M+VRwq95rSrUqukULkBDQRgxFWFAQgAr0zB3ff6bXdZ
+pI57FjYWLmAWayj9lWa8rqJu/317k6Xs2VJ35GvFZhR0LgJxJ7P/ivE55DB4ADIM
+NNM59rKXmgOq5/mAivxo/fr3AJA4+1icwDNJ9+Mg1WzwAoWj2a4r7Kl5FmBjEBwg
++yZDMEWvZmV4RQB6BIpJl8c9CeWMa9vy5q2IzsEiTVhXRdriOSmBF4I0yS2qgv6k
+s4r8tPo2EgXUO6RveyVBHOwBdWEe+xMKvFwYyn/n0n+upVDgAfcH74LOCm3oN+DS
+ga8eCpO172BBnC+8Ti5W3ORNxLS4oxtyLKecQ93phms+EfF+5XtO4vAKJZguPi09
+5AnCDqmc5QARAQABiQE8BBgBCgAmFiEEnPFHeS9nCFHMiZuUzIza96Lcb+gFAmDE
+VYUCGwwFCQPCZwAACgkQzIza96Lcb+i3/Qf/aFuAhwccx+QuKgS9qpk8V2eTAfYF
+3o3MXsXESF9ez/mPbYL85bda+giTsgzKED13ivKe+1X2fs+DRYY4TJZ1BioiguP5
+pWoi7WYhEbC66vsMQEKA0x+fLsou7xQlC2YBHhbTym2Q63aLexLTld4iAjpw+di0
+8wdVevI7Ch2yBeCKBWgi6NkLhc6J8zB2oq4CrB3yau/GudMDPdPVODEZR+1rbnQw
+iWeq+Pwn0SSFMqpSjS3uTTgQvz59LcAKB1RAIbP0dvGZ8OqirMA0JsiCM53Iytsz
+UMOchxtDYnGxgWc6WLl8m0SyQBFJ5LzJNcEox/hX0WBbBi7vvpgeqJ5KUg==
+=vxz7
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+----
+
+## Sign Only
+```
+rsa4096 2020-02-23 [expires: 2022-02-22]
+2FD0C09EB80DB93A7484F545A01EDC09AA8ABA95
+Ammar Faizi <ammarfaizi2@gmail.com>
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBF5SUB0BEAC4X41/W4Xvw9fQqbOrUZ3NyoLJ2UXClgLGO4FJZpYCLFzDz1og
+a4//AaMDnys/B+VHovAyRl3mcgpJbUx/Lt2PW1pOim4BHhfTO9K9tI2DG4uIhARV
+vWhlpsLvRO5yg1UI6JR4obca+P7KJvrHKoUD8hkZKN5y8PBXcHmjbzMHhl9sJA6Z
+haTqmudUF9PFNwZWE819zYrBGwt5Lg+KVxUjPu2PfOgojkZQpdjfk/mAzLgMtSiX
+MhyznHKCpw0W2nG4PNHwL68XwAzHqFNf46R6a7XSPsMkDo0/uHI9rRjeFqlf1+/p
+kuDlrMqSRHSpa9cpYyBweY0KBCMqVlna+Fzpdzsusf70n5iHMZeHmQU177C8Lpei
+Qg9dEbacj+YXIihSKAR6vPYyEhS22AZzwuxJInSkaJfhK/e/dKYlpaxV1DdnSIDZ
+HeI7rmFpHeBjKJSbAVuNYn3qPTOTONZBSLe9cVya89hmmyAki3r47+zFCczHk1Zn
+b9SR+TqwpaPrJUlGNW9z18e+UWv9PkpAC9yUJR7/wB02HU/GsqfgdgeCrshbMdOJ
+kRFKaacmkaydWhTLPDpoy3B44z85+hJMofmKilBmarFWdT9o2LAt/6ZhRpjiJMxI
+OPwsiFE8FGuPOk122zHUZDBpSgB6EVEgOLlMOPZth1gV0AOhQa7NKFvjZwARAQAB
+tCNBbW1hciBGYWl6aSA8YW1tYXJmYWl6aTJAZ21haWwuY29tPokCVAQTAQoAPhYh
+BC/QwJ64Dbk6dIT1RaAe3AmqirqVBQJeUlAdAhsDBQkDwmcABQsJCAcCBhUKCQgL
+AgQWAgMBAh4BAheAAAoJEKAe3AmqirqVvx4QAKxGsW6A6WyatOaAoVoKy6ZDJH+0
+fICMwO+jhqUlizqqUSCkuUyeRmeo6zEyyakOpjfHamGLs+slGD4IFGJoTeVzlD2u
+0KO0BED7eNpyLu9yq7ObgVst0oemnUVqyDqp/AAHWsuHhAXCdpwEKxxea/KNunmi
+t6ehNGDh4U458kvo8zdUMxvvealh7c6hvxTsV/bLyC43645BYOBsPo2pcJB3oIdj
+SCmKngXDRnE+whoZgDq6EmEmvOMNtutoEf1PL6Re8Wfdb+Z5/pRaQRkKxPXb0wYT
+KZmt+Eo6bjJRpPIG77hMA9WoUcr0NJVCwmQYGMOHXz8f/AATxUqBtsv037NmaPMl
+nkMbKTf3uK6cS66T84qYnluadaJAaIcWLAtV62Dk5ato/ER064vza5eOVu7rRiYi
+pIDpgINhDcPokKWlGv9tu3NspeV7DSbDvxIDilPTvLARCg38hhQTiyKS1VLNsDgZ
+yuXEKSMR3Vncb5wvbuy/SYAXkfeKcY0Gm5+6HES2V2cIp5MgTQ0UOY90NAJTYm+t
+ZJS2s95YRgP/lyeOnWPhbMFKbhlSC5rgiYTpgPipn+6cgZPTx79Htu7BIz2O6N50
+Rx6+IjZRU17Wt29Fto4/ShK+UcQGeXvZTnwuHJR2C7QXg04euEKqhvIr/pnw/Wea
+6aNKOm8XgZqLEHQv
+=h1H/
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+# My Emails
+```
+ammarfaizi2@gmail.com
+ammarfaizi2@gnuweeb.org
+
+Please send armored encrypted in plain text, please.
+```
+
+# If you want to get an encrypted reply, please send your public key when you're messaging me.
