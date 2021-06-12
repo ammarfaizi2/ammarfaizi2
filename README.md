@@ -1,9 +1,7 @@
 
 # My Public Keys
 
-----
-
-## Encrypt and Sign
+## Encrypt and Verify Sign
 ```
 rsa2048 2021-06-12 [expires: 2023-06-12]
 9CF147792F670851CC899B94CC8CDAF7A2DC6FE8
@@ -43,7 +41,7 @@ UMOchxtDYnGxgWc6WLl8m0SyQBFJ5LzJNcEox/hX0WBbBi7vvpgeqJ5KUg==
 
 ----
 
-## Sign Only
+## Verify Sign Only
 ```
 rsa4096 2020-02-23 [expires: 2022-02-22]
 2FD0C09EB80DB93A7484F545A01EDC09AA8ABA95
@@ -80,6 +78,8 @@ Rx6+IjZRU17Wt29Fto4/ShK+UcQGeXvZTnwuHJR2C7QXg04euEKqhvIr/pnw/Wea
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
+-------
+
 # My Emails
 ```
 ammarfaizi2@gmail.com
@@ -88,4 +88,4 @@ ammarfaizi2@gnuweeb.org
 Please send armored encrypted in plain text, please.
 ```
 
-# If you want to get an encrypted reply, please send your public key when you're messaging me.
+# If you want to get an encrypted reply, please send your public key when you're messaging me!
