@@ -85,7 +85,7 @@ Rx6+IjZRU17Wt29Fto4/ShK+UcQGeXvZTnwuHJR2C7QXg04euEKqhvIr/pnw/Wea
 ammarfaizi2@gmail.com
 ammarfaizi2@gnuweeb.org
 
-Please send armored encrypted in plain text, please.
+Please send armored encrypted message in plain text.
 ```
 
 # If you want to get an encrypted reply, please send your public key when you're messaging me!
