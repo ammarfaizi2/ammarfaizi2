@@ -1,4 +1,8 @@
-
+# Import My Public Keys
+```
+You can import my public key by using this command:
+$ curl -s https://github.com/ammarfaizi2 | gpg --import
+```
 # My Public Keys
 ```
 pub   rsa4096 2020-02-23 [SC] [expires: 2022-02-22]
